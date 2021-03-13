@@ -1,4 +1,4 @@
-FROM node:12-alpine # https://hub.docker.com/_/node/
+FROM node:12-alpine
 
 WORKDIR /app
 
